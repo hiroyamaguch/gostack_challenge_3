@@ -1,5 +1,5 @@
 # GoStack - Desafio: Conceitos do React Native
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/hiroyamaguch/gostack_challenge_3/blob/master/LICENSE)
+Diretório do projeto original nest [link](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native).
 
 # Sobre o projeto
 
